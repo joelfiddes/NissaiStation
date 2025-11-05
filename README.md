@@ -2,6 +2,8 @@
 
 This suite provides comprehensive visualization tools for your meteorological dataset with 203,843 records and 41 variables from the Nissai Station.
 
+<img width="1495" height="665" alt="image" src="https://github.com/user-attachments/assets/eaf4f240-9c77-46ca-a081-31517fec8964" />
+
 ## Features
 
 ### 🎯 Interactive Dashboard (`interactive_meteo_plot.py`)
